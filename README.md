@@ -31,7 +31,7 @@ I build AI-powered web applications and data pipelines — from intelligent moni
 
 ## 💼 Experience
 
-- **Software Engineer** — Iprogram client- AT&T, Frisco TX *(Sep 2025 – Present)*  
+- **Software Engineer** — Iprogram, client- AT&T, Frisco TX *(Sep 2025 – Present)*  
   AI-driven network monitoring, real-time telemetry pipelines, anomaly detection
 
 - **Software Developer** — SBI, Chicago IL *(Aug 2024 – Aug 2025)*  
